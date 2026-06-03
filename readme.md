@@ -24,6 +24,10 @@ Developed behavioral segmentation approaches to support personalization and cust
 
 Built a store recommendation framework leveraging geographic and operational similarities to improve assortment decision-making.
 
+### Returns Analysis Framework
+
+Analyzed 13M+ transaction records using SQL and statistical techniques to uncover drivers of product returns and customer return behavior.
+
 ## Core Skills Demonstrated
 
 * Python
